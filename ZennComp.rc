@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_ZENNCOMP ICON "ZennComp.ico"
+1 24 "app.manifest"
