@@ -2,8 +2,6 @@
 
 **Version V16 Unwind-Aware Engine** – Analyse statique de binaires Windows (PE) x64/x86, désassemblage, décompilation en pseudo-C, et extraction d’informations avancées.
 
-![ZennComp Logo](https://via.placeholder.com/150?text=ZennComp) *(remplacez par votre logo si disponible)*
-
 ---
 
 ## Table des matières
@@ -67,3 +65,7 @@ Respectez les lois en vigueur et les droits d’auteur.
    ```bash
    git clone https://github.com/AVHIRAL/ZennComp.git
    cd ZennComp
+
+### DON PAYPAL 
+
+https://www.paypal.com/donate/?hosted_button_id=FSX7RHUT4BDRY
